@@ -6,7 +6,7 @@
 After installing Git LFS, clone the repository in a directory of your choice:
 
 ```shell
-git clone https://github.com/mahilab/SyntactsVR
+git clone https://github.com/mahilab/SyntactsBracelet
 ```
 
-To open the project, open `assets/SyntactsVR.unity`.
+To open the project, open `assets/SyntactsBracelet.unity`.
